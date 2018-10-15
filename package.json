@@ -1,0 +1,19 @@
+{
+  "name": "dfra-cv-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exiled212/dfra-cv-backend.git"
+  },
+  "author": "Daniel Ruiz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/exiled212/dfra-cv-backend/issues"
+  },
+  "homepage": "https://github.com/exiled212/dfra-cv-backend#readme"
+}
